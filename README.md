@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angfa Callcenter/Manage System 詳細設計資料  
 ## 関連資料
 
@@ -39,3 +40,6 @@ $ aws s3 cp _book/ s3://angfa-revamp-docs/ --recursive
 以下を参考に設定  
 * S3/CloudFront: [\[CloudFront \+ S3\]特定バケットに特定ディストリビューションのみからアクセスできるよう設定する ｜ Developers\.IO](https://dev.classmethod.jp/cloud/aws/cloudfront-s3-origin-access-identity/)  
 * Basic認証: [簡単だった！CloudFront \+ S3 に BASIC認証を入れる方法 \| カフーブログ](https://kahoo.blog/howto-basic-auth-on-cloudfront-s3/)  
+=======
+# pullreq
+>>>>>>> origin/master
